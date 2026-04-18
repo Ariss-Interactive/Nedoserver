@@ -1,0 +1,8 @@
+pack:
+  id: "cool-pack"
+  name: "Cool pack"
+  version: "1.0.0"
+
+versions:
+  minecraft: "1.21.1"
+  neoforge: "21.1.225"
