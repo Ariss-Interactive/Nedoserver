@@ -14,3 +14,18 @@ builders:
       # - "./icon.png"
       # - src: "./helper/build/libs/*"
       #  dest: "mods/"
+
+default_profile: "full"
+
+profiles:
+   server:
+      groups:
+         - optimizations
+         - pretty
+         - qol
+   full:
+     depends: "server"
+     groups:
+       - optimizations_client
+       - qol_client
+       - pretty_client
