@@ -1,0 +1,17 @@
+- load: modrinth
+  id: ferrite_core
+  project: "ferrite-core"
+  version: "7.0.3-neoforge"
+  group: "optimizations"
+
+- load: modrinth
+  id: c2me
+  project: "c2me-neoforge"
+  version: "0.3.0+alpha.0.90+1.21.1"
+  group: "optimizations"
+
+- load: modrinth
+  id: modernfix
+  project: "modernfix"
+  version: "iYwIkyV5"
+  group: "optimizations"

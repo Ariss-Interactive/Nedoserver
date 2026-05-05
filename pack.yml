@@ -1,8 +1,16 @@
 pack:
-  id: "cool-pack"
-  name: "Cool pack"
-  version: "1.0.0"
+  id: "nedoserver"
+  name: "Nedoserver"
+  version: "2.0.0"
 
 versions:
   minecraft: "1.21.1"
   neoforge: "21.1.225"
+
+builders:
+  mrpack:
+    include_files:
+      - "./config/**"
+      # - "./icon.png"
+      # - src: "./helper/build/libs/*"
+      #  dest: "mods/"

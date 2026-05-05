@@ -1,0 +1,5 @@
+- load: modrinth
+  id: iris
+  project: "iris"
+  version: "1.8.12+1.21.1-neoforge"
+  group: "pretty_client"

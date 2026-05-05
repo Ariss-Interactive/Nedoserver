@@ -1,0 +1,29 @@
+- load: modrinth
+  id: matmos-ambient-sound
+  project: "matmos-ambient-sound"
+  version: "aEK8bUX8"
+  group: "pretty"
+
+- load: modrinth
+  id: lambdynamiclights
+  project: "lambdynamiclights"
+  version: "4.8.7+1.21.1"
+  group: "pretty"
+
+- load: modrinth
+  id: cool-rain-reforged
+  project: "cool-rain-reforged"
+  version: "8UlyMRh2"
+  group: "pretty"
+
+- load: modrinth
+  id: sound-physics-remastered
+  project: "sound-physics-remastered"
+  version: "neoforge-1.21.1-1.5.1"
+  group: "pretty"
+
+- load: modrinth
+  id: distant_horizons
+  project: "distanthorizons"
+  version: "3.0.1-b-1.21.1"
+  group: "pretty"

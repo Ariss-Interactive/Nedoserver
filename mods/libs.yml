@@ -1,0 +1,39 @@
+- load: modrinth
+  id: cloth_config
+  project: "cloth-config"
+  version: "15.0.140+neoforge"
+
+- load: modrinth
+  id: sable
+  project: "sable"
+  version: "3FMsUjO4"
+
+- load: modrinth
+  id: tct-core
+  project: "tct-core"
+  version: "ZFDPM6AD"
+
+- load: modrinth
+  id: kotlin-for-forge
+  project: "kotlin-for-forge"
+  version: "5.11.0"
+
+- load: modrinth
+  id: petrolpark
+  project: "petrolpark"
+  version: "1.21.1-1.4.32"
+
+- load: modrinth
+  id: rpl
+  project: "rpl"
+  version: "hZ6B2Z0x"
+
+- load: modrinth
+  id: silent-lib
+  project: "silent-lib"
+  version: "10.6.0"
+
+- load: modrinth
+  id: sophisticated-core
+  project: "sophisticated-core"
+  version: "1.21.1-1.4.24.1680"

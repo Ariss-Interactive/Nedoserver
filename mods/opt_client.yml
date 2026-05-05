@@ -1,0 +1,33 @@
+# == SODIUM GROUP ==
+
+- load: modrinth
+  id: sodium
+  project: "sodium"
+  version: "mc1.21.1-0.6.13-neoforge"
+  group: "optimizations_client"
+
+- load: modrinth
+  id: sodium_extra
+  project: "sodium-extra"
+  version: "mc1.21.1-0.6.0+neoforge"
+  group: "optimizations_client"
+
+# == END SODIUM GROUP
+
+- load: modrinth
+  id: entity_culling
+  project: "entityculling"
+  version: "LrKSuU8e"
+  group: "optimizations_client"
+
+- load: modrinth
+  id: immediately_fast
+  project: "immediatelyfast"
+  version: "1.6.10+1.21.1-neoforge"
+  group: "optimizations_client"
+
+- load: modrinth
+  id: moreculling
+  project: "moreculling"
+  version: "BvOuEhk4"
+  group: "optimizations_client"
