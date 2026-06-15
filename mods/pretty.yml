@@ -1,7 +1,7 @@
 - load: modrinth
-  id: matmos-ambient-sound
-  project: "matmos-ambient-sound"
-  version: "aEK8bUX8"
+  id: ambientsounds
+  project: "ambientsounds"
+  version: "RZyxhsqY"
   group: "pretty"
 
 - load: modrinth

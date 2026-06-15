@@ -12,8 +12,6 @@ builders:
     include_files:
       - "./config/**"
       # - "./icon.png"
-      # - src: "./helper/build/libs/*"
-      #  dest: "mods/"
 
 default_profile: "full"
 

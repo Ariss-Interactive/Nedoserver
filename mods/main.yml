@@ -28,7 +28,12 @@
 - load: modrinth
   id: create-big-cannons
   project: "create-big-cannons"
-  version: "bsGaXKEd"
+  version: "Xd4DDnph"
+
+- load: modrinth
+  id: create-slice-and-dice
+  project: "slice-and-dice"
+  version: "tyVnEa75"
 
 # == HELPFUL
 
@@ -47,9 +52,26 @@
   project: "farmers-delight"
   version: "1.21.1-1.2.11"
 
+- load: modrinth
+  id: alcocraft
+  project: alcocraft
+  version: "V0pbcqrh"
+
 # == TECHNOLOGY
 
 - load: modrinth
   id: cc-tweaked
   project: "cc-tweaked"
   version: "ZlZHN512"
+
+# == DECOR
+
+- load: modrinth
+  id: abyssal-decor
+  project: "abyssal-decor"
+  version: "GCBLIGA6"
+
+- load: modrinth
+  id: handcrafted
+  project: "handcrafted"
+  version: "JfqnpP2Z"

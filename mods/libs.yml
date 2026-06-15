@@ -9,9 +9,9 @@
   version: "3FMsUjO4"
 
 - load: modrinth
-  id: tct-core
-  project: "tct-core"
-  version: "ZFDPM6AD"
+  id: creativecore
+  project: "creativecore"
+  version: "nLLornod"
 
 - load: modrinth
   id: kotlin-for-forge
@@ -37,3 +37,13 @@
   id: sophisticated-core
   project: "sophisticated-core"
   version: "1.21.1-1.4.24.1680"
+
+- load: modrinth
+  id: resourceful-lib
+  project: "resourceful-lib"
+  version: "x99nCLTm"
+
+- load: modrinth
+  id: architectury
+  project: "architectury-api"
+  version: "13.0.8+neoforge"
