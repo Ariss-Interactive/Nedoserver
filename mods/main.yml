@@ -8,7 +8,7 @@
 - load: modrinth
   id: create-aeronautics
   project: "create-aeronautics"
-  version: "1.2.1+mc1.21.1"
+  version: "1.3.0+mc1.21.1"
 
 - load: modrinth
   id: gears-n-kinetics
@@ -28,7 +28,7 @@
 - load: modrinth
   id: create-big-cannons
   project: "create-big-cannons"
-  version: "Xd4DDnph"
+  version: "bOiDu0LS"
 
 - load: modrinth
   id: create-slice-and-dice
@@ -63,6 +63,16 @@
   id: cc-tweaked
   project: "cc-tweaked"
   version: "ZlZHN512"
+
+- load: modrinth
+  id: envelope
+  project: "envelope"
+  version: "MmLbWZuv"
+
+- load: modrinth
+  id: exposure
+  project: "exposure"
+  version: "KZR7AUbh"
 
 # == DECOR
 

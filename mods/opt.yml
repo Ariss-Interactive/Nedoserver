@@ -7,7 +7,7 @@
 - load: modrinth
   id: c2me
   project: "c2me-neoforge"
-  version: "0.3.0+alpha.0.90+1.21.1"
+  version: "0.4.0-alpha.0.107+1.21.1"
   group: "optimizations"
 
 - load: modrinth
